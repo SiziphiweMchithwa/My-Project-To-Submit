@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ExpensesTracker",
+			"path": "../take-home-test-main/ExpensesTracker"
+		}
+	],
+	"settings": {}
+}
